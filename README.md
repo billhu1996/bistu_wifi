@@ -60,3 +60,7 @@
     完事
 
 - 你可以把 login.sh 跟logout.sh 改一下执行权限放到path 里 然后你就能酷酷的在终端里输入login.sh 完成登录 输入logout.sh 完成登出了。
+
+##Windows下登录bistu
+
+- 下载login.html到本地，将其中yourusername改为你的用户名，yourpassword改为密码，双击打开即可登录。
