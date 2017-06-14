@@ -4,5 +4,5 @@
 username=你的用户名
 password=你的密码
 
-data="DDDDD="$username"&upass="$password
-/usr/bin/curl -d $data "http://211.82.99.97:801/eportal/?c=ACSetting&a=Login&mac=000000000000"
+data="DDDDD="$username"&upass="$password"&R1=0"
+curl -d $data "http://192.168.7.71/a70.htm"
